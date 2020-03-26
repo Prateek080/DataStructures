@@ -8,7 +8,7 @@ Input, Output, Definiteness, Correctness, Finite
 *Space Complexity* - amount of computer memory required to implement the algorithm
 
 
-#### Searching
+### Searching
 
 *Basic* - To find an item in a set of distinct items.
 ##### *Types* 
@@ -25,7 +25,7 @@ Search a sorted array by repeatedly dividing the search interval in half.
 *Time Complexity* 
 > Best - Ω(1); Worst - O(log N); Average - θ(log N);
 
-#### Sorting
+### Sorting
 *Basic* - Ordering the elements of a list by any context. Telephone Directory, Song Loader<br>
 
 *Adaptive and Non-Adaptive Sorting Algorithm*<br>
