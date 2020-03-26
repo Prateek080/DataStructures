@@ -1,6 +1,6 @@
-##Searching and Sorting
+## Searching and Sorting
 
-###Algorithm
+### Algorithm
 Necessary set of instructions for performing a computation.
 Input, Output, Definiteness, Correctness, Finite
 
@@ -8,10 +8,10 @@ Input, Output, Definiteness, Correctness, Finite
 *Space Complexity* - amount of computer memory required to implement the algorithm
 
 
-####Searching
+#### Searching
 
 *Basic* - To find an item in a set of distinct items.
-#####*Types* 
+##### *Types* 
 **Linear/ Sequential**<br>
 Involves looking at each value and when value is located, the program quits and return 
 true.<br>
@@ -25,13 +25,13 @@ Search a sorted array by repeatedly dividing the search interval in half.
 *Time Complexity* 
 > Best - Ω(1); Worst - O(log N); Average - θ(log N);
 
-####Sorting
+#### Sorting
 *Basic* - Ordering the elements of a list by any context. Telephone Directory, Song Loader<br>
 
 *Adaptive and Non-Adaptive Sorting Algorithm*<br>
 Adaptive if it takes advantage of already sorted elements and vice versa
 
-#####*Types* <br>
+##### *Types* <br>
 
 **Selection**<br> 
 The idea behind selection sort is:
