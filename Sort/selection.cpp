@@ -30,13 +30,12 @@ void selectionSort(int arr[], int n){
                     if(arr[j] < arr[minIndex])  minIndex = j;
                }
                swap(arr, minIndex, i);
-               print(arr, n);
         }
 }
 
 
 int main(){
-    int arr[] = {2, 4, 6, 5, 0, 9};
+    int arr[] = {19, 23,29, 2, 6, 4, 5, 0, 9};
     int x = 0;
     int n = sizeof(arr)/sizeof(arr[0]);
     selectionSort(arr, n);

@@ -29,7 +29,7 @@ void insertionSort(int arr[], int n){
 
 
 int main(){
-    int arr[] = {2, 4, 4, 5, 0, 9};
+      int arr[] = {19, 23,29, 2, 6, 4, 5, 0, 9};
     int x = 0;
     int n = sizeof(arr)/sizeof(arr[0]);
     insertionSort(arr, n);
