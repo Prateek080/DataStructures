@@ -82,3 +82,8 @@ To sort an array of length N:
 
 *Time Complexity* 
 > Best - Ω(nlog(n)); Worst - O(nlog(n)); Average - θ(nlog(n));
+
+
+##### Comparison between merge and quick sort
+
+https://techdifferences.com/difference-between-quick-sort-and-merge-sort.html
