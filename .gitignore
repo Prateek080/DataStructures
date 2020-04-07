@@ -3,3 +3,6 @@
 coverage/
 .vscode/
 prog
+test.cpp
+images/
+.DS_Store
